@@ -1,0 +1,9 @@
+{
+  "name": "codemirror-liquid-mode",
+  "version": "1.0.0",
+  "description": "Package of: A CodeMirror mode for the liquid template language",
+  "repository": "https://github.com/waysact/codemirror_liquid_mode",
+  "author": "Henning Kiel",
+  "license": "MIT",
+  "homepage": "https://github.com/waysact/codemirror_liquid_mode#readme"
+}

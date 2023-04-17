@@ -1,5 +1,7 @@
 A CodeMirror mode for the liquid template language
 
+`package.json` added by Waysact
+
 License (MIT)
 =======
 Copyright (c) 2012 Henning Kiel
